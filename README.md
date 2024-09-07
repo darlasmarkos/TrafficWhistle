@@ -61,9 +61,9 @@ The project follows the **MVVM (Model-View-ViewModel)** architecture to separate
    
 2. **Report an Incident**: The user can report an incident by filling out a form, uploading an image, and tagging their location using the integrated map.
    
-3. **Manage Reports**: Users can view a history of their reported incidents under the "Reports History" section and delete reports if needed.
+3. **Manage Reports**: Admin type users can view a history of reported incidents under the "Reports History".
 
-4. **Account Settings**: Users can update their preferences, sign out, or delete their accounts from the settings page.
+4. **Account Settings**: Users can sign out, or delete their accounts from the settings page.
 
 ## Models
 
